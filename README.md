@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Tonarion7/Tonarion7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# LWS PROJECT😄
+## GAME
+- Running For Friends : 위험의 빠진 친구를 찾기 위해 끊임없이 달려나가는 주인공이 되어보자
+- Monster Survival : 다양한 몹을 처치하며 끝까지 버티자
+- Top Plane : 날아오는 미사일을 파괴하고 피하며 점수를 올려보자
+- Snake Game : 세상에서 가장 긴 SNAKE가 되어보자
+- MiniGames : 게임 선물 종합 세트(“숫자 맞추기 게임”, “곱셈 맞추기 게임”, “가위바위보 게임”, “영어 타자연습”)
+## Program
+- Self-diagnosis program : 코로나19 시기 자신을 직접 진단해보자
+## Arduino
