@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Snake Game : 세상에서 가장 긴 SNAKE가 되어보자
 - MiniGames : 게임 선물 종합 세트(“숫자 맞추기 게임”, “곱셈 맞추기 게임”, “가위바위보 게임”, “영어 타자연습”)
 - Shoooooting : FPS
+- The Forest : 미션을 클리어하여 이곳을 탈출하자
 ## Program
 - Self-diagnosis program : 코로나19 시기 자신을 직접 진단해보자
 ## Arduino
